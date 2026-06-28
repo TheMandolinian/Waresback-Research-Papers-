@@ -8,6 +8,7 @@ Start with the PDF first, then use the Markdown companion as a short reader guid
 
 - Current PDF: [HashHelix Whitepaper V1.9.5](draft-v1.9.5/hashhelix-whitepaper-v1.9.5.pdf)
 - Short companion: [V1.9.5 summary](draft-v1.9.5/hashhelix-whitepaper-v1.9.5.md)
-- Plain-English supplement: [HashHelix Teachable Doc](technical-summaries/hashhelix-teachable-doc.md)
+- Teachable PDF: [hashhelix-teachable-doc.pdf](technical-summaries/hashhelix-teachable-doc.pdf)
+- Teachable companion: [HashHelix Teachable Doc](technical-summaries/hashhelix-teachable-doc.md)
 - Legacy notes: [Legacy HashHelix Materials](legacy/README.md)
 - Source posture: [Source Checklist](sources/source-checklist.md)

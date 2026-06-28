@@ -27,6 +27,14 @@ HashHelix is a deterministic event sequencing and verification framework. The cu
 
 Legacy HashHelix material is preserved for historical context only. V1.9.5 is the current corrected public framing.
 
+## Repository and Implementation Availability
+
+Some technologies and implementation details discussed in these papers are developed in private repositories and are not fully mirrored in this public research repository.
+
+The HashHelix Python DTL prototype is the public/open implementation reference currently available for review. The HashHelix Rust DRL authority implementation is closed-source/private unless explicitly released or linked later.
+
+A paper describing HashHelix, HelixWorks, DRL authority, bridge laws, receipts, projections, vaults, or commitment architecture should not be read as a claim that every described component is public, production-authoritative, or fully implemented.
+
 ## Repository documents
 
 - [Copyright](COPYRIGHT.md)

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you cite this research draft, please cite it using the metadata below."
+title: "Economic Security Valuation of Institutional Distributed Ledger Networks: A Framework for Evaluating Digital Infrastructure Beyond Transaction Utility"
+authors:
+  - family-names: "Waresback"
+    given-names: "James Bradley"
+version: "0.1"
+date-released: "2026-06"
+abstract: "A public research draft proposing an economic-security framework for evaluating institutional distributed ledger networks beyond transaction utility, using Hedera / HBAR as a primary case study while preserving a technology-agnostic analytical structure."
+repository-code: "https://github.com/TheMandolinian/Waresback-Research-Papers-"
+license: "All rights reserved"
+keywords:
+  - distributed ledger technology
+  - economic security
+  - institutional infrastructure
+  - Hedera
+  - HBAR
+  - token valuation
+  - digital infrastructure
+  - staking
+  - treasury transition
+  - institutional confidence

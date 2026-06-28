@@ -25,7 +25,7 @@ HashHelix is a deterministic event sequencing and verification framework. The cu
 - Companion summary: [hashhelix-whitepaper-v1.9.5.md](papers/hashhelix-ledger/draft-v1.9.5/hashhelix-whitepaper-v1.9.5.md)
 - Plain-English supplement: [HashHelix Teachable Doc](papers/hashhelix-ledger/technical-summaries/hashhelix-teachable-doc.md)
 
-Legacy HashHelix material is preserved for historical context only. V1.9.5 is the current corrected public framing.
+Legacy HashHelix material is preserved for historical context and for tracing the evolution of the project's terminology, architecture, implementation thinking, and execution path. It should not override V1.9.5 where terminology or claims conflict. V1.9.5 is the current corrected public framing.
 
 ## Repository and Implementation Availability
 

@@ -4,4 +4,4 @@ This folder preserves older or transitional HashHelix documents for historical c
 
 The current public framing is V1.9.5: HashHelix is a deterministic event sequencing and verification framework, not a literal time engine. Legacy material should not override V1.9.5 where terminology conflicts.
 
-The PDF in this folder is preserved as source history, not as the current canonical reader path.
+The PDF in this folder is preserved as source history and as a record of the project's evolution of thought, terminology, architecture, and execution path. It is not the current canonical reader path.
